@@ -1,7 +1,7 @@
 var altura
 var largura
 var vidas = 1
-var tempo = 10
+var tempo = 180
 
 var criaMosquitoTempo = 1500
 
